@@ -201,7 +201,7 @@ Consulte os [Issues](https://github.com/SrPeixoto/LaravelSite/issues) para obter
 ## Contatos
 
 📸 Instagram | Matheus Peixoto - [@peixotoo0](https://www.instagram.com/peixotoo0/)
-
+<br>
 🎥 TikTok | Matheus Peixoto - [@srpeixotoo](https://www.tiktok.com/@srpeixotoo)
 
 📂 Projeto: [LaravelSite](https://github.com/SrPeixoto/LaravelSite)
