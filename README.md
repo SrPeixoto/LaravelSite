@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/SrPeixoto/LaravelSite">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <!-- <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
   </a>
 
   <h3 align="center">Primeiro site LARAVEL</h3>
@@ -201,8 +201,6 @@ Consulte os [Issues](https://github.com/SrPeixoto/LaravelSite/issues) para obter
 ## Contatos
 
 📸 Instagram | Matheus Peixoto - [@peixotoo0](https://www.instagram.com/peixotoo0/)
-
-
 🎥 TikTok | Matheus Peixoto - [@srpeixotoo](https://www.tiktok.com/@srpeixotoo)
 
 📂 Projeto: [LaravelSite](https://github.com/SrPeixoto/LaravelSite)
