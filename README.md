@@ -47,7 +47,7 @@
     <li>
       <a href="#getting-started">Como iniciar</a>
       <ul>
-        <li><a href="#prerequisites">Pré-requisitos</a></li>
+        <li><a href="#Pré-requisitos">Pré-requisitos</a></li>
         <li><a href="#installation">Instalação</a></li>
       </ul>
     </li>
