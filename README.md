@@ -92,8 +92,8 @@ Este exemplo foi constuído com os seguintes itens:
 * [![Angular][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url] -->
 * [![Laravel][Laravel.com]][Laravel-url]
-<!-- * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]-->
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url] 
+* [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#readme-top">Volta ao topo</a>)</p>
 
@@ -182,6 +182,7 @@ A instalação alternativa é possível sem dependências locais que dependam do
 - [x] Menu inicial Animado
 - [x] Hiper-Links
 - [ ] Rodapé Completo
+- [ ] Sistema de Notificação
 
 Consulte os [Issues](https://github.com/SrPeixoto/LaravelSite/issues) para obter uma lista completa dos recursos propostos (e problemas conhecidos).
 
