@@ -47,7 +47,7 @@
     <li>
       <a href="#getting-started">Como iniciar</a>
       <ul>
-        <li><a href="#Pré-requisitos">Pré-requisitos</a></li>
+        <li><a href="#prerequisites">Pré-requisitos</a></li>
         <li><a href="#installation">Instalação</a></li>
       </ul>
     </li>
@@ -201,6 +201,7 @@ Consulte os [Issues](https://github.com/SrPeixoto/LaravelSite/issues) para obter
 ## Contatos
 
 📸 Instagram | Matheus Peixoto - [@peixotoo0](https://www.instagram.com/peixotoo0/)
+
 🎥 TikTok | Matheus Peixoto - [@srpeixotoo](https://www.tiktok.com/@srpeixotoo)
 
 📂 Projeto: [LaravelSite](https://github.com/SrPeixoto/LaravelSite)
